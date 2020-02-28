@@ -1,0 +1,10 @@
+C:\Users\dota_\Desktop\C#\Hafıza_oyunu\Hafıza_oyunu\bin\Debug\Hafıza_oyunu.exe.config
+C:\Users\dota_\Desktop\C#\Hafıza_oyunu\Hafıza_oyunu\bin\Debug\Hafıza_oyunu.exe
+C:\Users\dota_\Desktop\C#\Hafıza_oyunu\Hafıza_oyunu\bin\Debug\Hafıza_oyunu.pdb
+C:\Users\dota_\Desktop\C#\Hafıza_oyunu\Hafıza_oyunu\obj\Debug\Hafıza_oyunu.csprojAssemblyReference.cache
+C:\Users\dota_\Desktop\C#\Hafıza_oyunu\Hafıza_oyunu\obj\Debug\Hafıza_oyunu.Form1.resources
+C:\Users\dota_\Desktop\C#\Hafıza_oyunu\Hafıza_oyunu\obj\Debug\Hafıza_oyunu.Properties.Resources.resources
+C:\Users\dota_\Desktop\C#\Hafıza_oyunu\Hafıza_oyunu\obj\Debug\Hafıza_oyunu.csproj.GenerateResource.cache
+C:\Users\dota_\Desktop\C#\Hafıza_oyunu\Hafıza_oyunu\obj\Debug\Hafıza_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\dota_\Desktop\C#\Hafıza_oyunu\Hafıza_oyunu\obj\Debug\Hafıza_oyunu.exe
+C:\Users\dota_\Desktop\C#\Hafıza_oyunu\Hafıza_oyunu\obj\Debug\Hafıza_oyunu.pdb
